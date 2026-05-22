@@ -13,3 +13,7 @@ years_to_graduation = 4 - 1.5       # Float calculation evaluation
 
 print("Skills: ", skills)
 print("years left to graduate: ", years_to_graduation)
+
+# One final custom variable
+favorite_food = "Japanese Curry Rice"
+print("Favorite food: ", favorite_food)
